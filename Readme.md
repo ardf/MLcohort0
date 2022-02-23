@@ -1,5 +1,6 @@
-#ML Cohort
-###Prerequisite - Task 1
+# ML Cohort
+
+### Prerequisite - Task 1
 
 1. Download the test images from this [Kaggle dataset](https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection), and place them all in a folder
 2. Define a function in the jupyter notebook to do the following tasks:
