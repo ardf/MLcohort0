@@ -9,13 +9,10 @@
   Takes the path of the folder as the input
   <br>
 - **Process**:
-  Loads all the images and convert them to an array
-  Convert all the images to grayscale images
+  Loads all the images and convert them to an array<br>Convert all the images to grayscale images
   <br>
 - **Output**:
-  Number of images
-  Format type of the images
-  Saving all the grayscale images to another folder
+  Number of images <br>Format type of the images<br>Saving all the grayscale images to another folder
   <br>
   _Bonus_:
   Convert the background of the images to white before converting them to grayscale
