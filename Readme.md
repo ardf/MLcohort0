@@ -41,10 +41,10 @@ size)</li>
 
 ##### Sample Input
 
-<img src="cat/cats_000.jpg" alt="Input Image">
-<img src="cat/cats_007.jpg" alt="Input Image">
+<img src="task2/cat/cats_000.jpg" alt="Input Image">
+<img src="task2/cat/cats_007.jpg" alt="Input Image">
 
 ##### Sample Output
 
-<img src="results/cat/bounded_cats_000.jpg" alt="Input Image">
-<img src="results/cat/bounded_cats_007.jpg" alt="Input Image">
+<img src="task2/results/cat/bounded_cats_000.jpg" alt="Input Image">
+<img src="task2/results/cat/bounded_cats_007.jpg" alt="Input Image">
