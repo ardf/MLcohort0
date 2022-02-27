@@ -12,11 +12,13 @@
   Loads all the images and convert them to an array<br>Convert all the images to grayscale images
   <br>
 - **Output**:
-Number of images <br>Format type of the images<br>Saving all the grayscale images to another folder
-<br>
-_Bonus_:
+  Number of images <br>Format type of the images<br>Saving all the grayscale images to another folder
+  <br>
+
+**Bonus**:
 Convert the background of the images to white before converting them to grayscale
 <br>
+
 <hr>
 
 ### Prerequisite - Task 2
