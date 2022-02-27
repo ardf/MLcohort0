@@ -52,6 +52,7 @@ size)</li>
 
 <br>
 <hr>
+
 ### Prerequisite - Task 3
 
 **AIM**: To create a neural network model of the highest accuracy, with the least number of parameters. <br>
